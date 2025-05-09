@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Walli4KWallpapers" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="backgroundColor">@color/background_colorlight</item>
+        <item name="background">@color/backgroundsec_colorlight</item>
+        <item name="colorContainer">@color/nav_colorlight</item>
+        <item name="cardBackgroundColor">@color/card_colorlight</item>
+        <item name="textFillColor">@color/text_light</item>
+        <item name="colorPrimary">@color/suggestion_light</item>
+        <item name="iconTint">@color/icon_light</item>
+        <item name="buttonStyle">@color/button_light</item>
+
+
+    </style>
+
+    <style name="Theme.Walli4KWallpapers" parent="Base.Theme.Walli4KWallpapers" />
+
+
+
+    <style name="BottomSheetStyle" parent="Theme.Design.Light.BottomSheetDialog" >
+        <item name="bottomSheetStyle">@style/Modal</item>
+    </style>
+    
+    <style name="Modal" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/sheet_background</item>
+    </style>
+    
+</resources>

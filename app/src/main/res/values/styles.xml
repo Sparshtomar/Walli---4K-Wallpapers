@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="roundimageview" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+        <item name="color">#111B20</item>
+    </style>
+
+
+    <style name="Widget.MyApp.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxBackgroundMode">none</item>
+        <item name="boxBackgroundColor">@android:color/transparent</item>
+    </style>
+
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="hintTextColor">@color/white</item>
+        <item name="queryBackground">@android:color/transparent</item>
+        <item name="android:queryHint">"Search Wallpapers"</item>
+        <item name="hintTextAppearance">@color/white</item>
+        <item name="editTextColor">@color/white</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+
+
+
+
+</resources>

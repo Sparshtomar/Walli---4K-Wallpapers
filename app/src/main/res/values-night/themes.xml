@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Walli4KWallpapers" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="backgroundColor">@color/background_colordark</item>
+        <item name="background">@color/backgroundsec_colordark</item>
+        <item name="colorContainer">@color/nav_colordark</item>
+        <item name="cardBackgroundColor">@color/card_colordark</item>
+        <item name="textFillColor">@color/text_dark</item>
+        <item name="colorPrimary">@color/suggestion_dark</item>
+        <item name="android:color">@color/icon_dark</item>
+        <item name="iconTint">@color/icon_dark</item>
+        <item name="buttonStyle">@color/button_dark</item>
+    </style>
+</resources>

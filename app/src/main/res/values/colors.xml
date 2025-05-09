@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="status_bar_color">#111B20</color>
+    <color name="status_bar_color_dark">#111B20</color>
+    <color name="status_bar_color_light">#fff</color>
+    <color name="color_suggestion_dropdown">#12181C</color>
+    
+    
+    <!-- Light Theme Colors -->
+    <color name="background_colorlight">#FFFFFFFF</color>
+    <color name="backgroundsec_colorlight">#E0F2F1</color>
+    <color name="nav_colorlight">#24647F</color>
+    <color name="card_colorlight">#E3F0F6</color>
+    <color name="text_light">#000000</color>
+    <color name="suggestion_light">#fff</color>
+    <color name="icon_light">#000000</color>
+    <color name="ok_light">#000000</color>
+    <color name="button_light">#E0F2F1</color>
+    
+    
+    
+    
+    <!-- Dark Theme Colors -->
+    <color name="background_colordark">#111B20</color>
+    <color name="backgroundsec_colordark">#12181C</color>
+    <color name="nav_colordark">#24647F</color>
+    <color name="card_colordark">#424242</color>
+    <color name="text_dark">#fff</color>
+    <color name="suggestion_dark">#12181C</color>
+    <color name="icon_dark">#fff</color>
+    <color name="ok_dark">#fff</color>
+    <color name="button_dark">#fff</color>
+
+
+    
+</resources>

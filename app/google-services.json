@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "475993081165",
+    "firebase_url": "https://walli---4k-wallpapers-default-rtdb.firebaseio.com",
+    "project_id": "walli---4k-wallpapers",
+    "storage_bucket": "walli---4k-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475993081165:android:69be6c5f4117ba74872304",
+        "android_client_info": {
+          "package_name": "com.sparsh.walli_4kwallpapers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTUcIuqOc9EpsGUbxrDO8iKx2vrIfbLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475993081165:android:635fb3419bfd02e7872304",
+        "android_client_info": {
+          "package_name": "com.sparsh.wallpaperadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTUcIuqOc9EpsGUbxrDO8iKx2vrIfbLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475993081165:android:a55f40cec4b34979872304",
+        "android_client_info": {
+          "package_name": "com.sparsh.walli_4kwallpapers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTUcIuqOc9EpsGUbxrDO8iKx2vrIfbLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

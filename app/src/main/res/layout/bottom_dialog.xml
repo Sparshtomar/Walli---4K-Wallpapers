@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottomsheet"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/sheet_background">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_rule"
+        android:layout_gravity="center"
+        android:padding="5dp"/>
+    <LinearLayout
+        android:id="@+id/RateAppbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/view_click_background"
+        android:clickable="true"
+        android:padding="15dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_rate"
+            android:layout_marginStart="7dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rate App"
+            android:layout_gravity="center"
+            android:textSize="16sp"
+            android:layout_marginStart="15dp"
+            android:textColor="?attr/textFillColor"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/Favoritesbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:clickable="true"
+        android:background="@drawable/view_click_background"
+        android:padding="15dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_favorite"
+            android:layout_marginStart="7dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Favorites"
+            android:layout_gravity="center"
+            android:textSize="16sp"
+            android:layout_marginStart="15dp"
+            android:textColor="?attr/textFillColor"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/RemoveAdsbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:clickable="true"
+        android:background="@drawable/view_click_background"
+        android:padding="15dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_remads"
+            android:layout_marginStart="7dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Remove Ads"
+            android:layout_gravity="center"
+            android:textSize="16sp"
+            android:layout_marginStart="15dp"
+            android:textColor="?attr/textFillColor"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/settingsbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/view_click_background"
+        android:clickable="true"
+        android:padding="15dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_settings"
+            android:layout_marginStart="7dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Settings"
+            android:layout_gravity="center"
+            android:textSize="16sp"
+            android:layout_marginStart="15dp"
+            android:textColor="?attr/textFillColor"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
