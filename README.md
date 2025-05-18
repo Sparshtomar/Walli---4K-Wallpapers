@@ -20,11 +20,11 @@ Walli 4K Wallpapers is an Android application that offers users a stunning colle
 
 ## 📊 Play Store Performance
 
-This app was previously published on the Google Play Store and received an impressive number of downloads before the developer account was terminated. See the screenshot below as proof:
+This app was previously published on the Google Play Store and received an impressive number of downloads before the developer account faced some issues. See the screenshot below as proof:
 
 ![Downloads Screenshot](screenshots/walli_downloads.jpeg)
 
-> 📈 **Total Downloads:** Over _X_ downloads on the Play Store
+> 📈 **Total Downloads:** Over 10K+ downloads on the Play Store
 
 ## 📱 Screenshots
 
